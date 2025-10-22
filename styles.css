@@ -1,0 +1,14 @@
+/* Estilo general de la página */
+body {
+    font-family: Arial, sans-serif;
+    font-size:20px;
+    color: blue;
+    margin: 40px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-family: "Times New Roman", sans-serif;
+    font-size:40px;
+    color: purple;
+}
